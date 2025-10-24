@@ -1,3 +1,7 @@
+This is a very simple fork, it features the same files but the pin used is 8 instead of 11, because RGBDuino Uno Jenny uses pin 8.
+
+
+
 # Songs for playing on Arduino boards.
 
 ## Usage
